@@ -1,0 +1,4 @@
+# ViewModelScopeDemo
+effactive use of coroutine in viewModel
+
+![viewmodel](https://github.com/Arjun-00/ViewModelScopeDemo/assets/76726126/0e4ea5f7-884d-49e1-a07e-baa96a5698be)
